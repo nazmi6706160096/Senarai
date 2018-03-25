@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/nav_today"
+        android:icon="@mipmap/ic_today_black_24dp"
+        android:title="@string/hari_ini_drawer"/>
+
+    <item android:id="@+id/nav_prioritas"
+        android:icon="@mipmap/ic_star_rate_black_18dp"
+        android:title="@string/prioritas_drawer"/>
+
+    <item android:id="@+id/nav_label"
+        android:icon="@mipmap/ic_label_black_24dp"
+        android:title="@string/label_drawer"
+        app:actionLayout="@layout/drop_down"/>
+
+    <item android:id="@+id/nav_projek"
+        android:icon="@mipmap/ic_featured_play_list_black_18dp"
+        android:title="@string/projek_drawer"/>
+
+    <item android:id="@+id/nav_pengatuan"
+        android:icon="@mipmap/ic_settings_black_18dp"
+        android:title="@string/pengaturan_drawer" />
+</menu>

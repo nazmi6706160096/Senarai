@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SENARAI</string>
+    <string name="textview_untuk_isi">TextView Untuk Isi</string>
+    <string name="judul">TextView untuk Judul</string>
+    <string name="bt_simpan">Simpan</string>
+    <string name="bt_batal">Batal</string>
+    <string name="title">Judul…</string>
+    <string name="tuliskan_note_agenda">Tuliskan Note/Agenda</string>
+    <string name="title_activity_menu_drawer">MenuDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="nama_hari">Senin</string>
+    <string name="nama_bulan">Januari</string>
+    <string name="tanggal_hariini">01</string>
+    <string name="tahun_hariini">2017</string>
+    <string name="hari_ini_drawer">Hari Ini</string>
+    <string name="prioritas_drawer">Prioritas</string>
+    <string name="label_drawer">Label</string>
+    <string name="projek_drawer">Projek</string>
+    <string name="pengaturan_drawer">Pengaturan</string>
+    <string name="tanggal_detail_list">26-Januari-2018</string>
+    <string name="judul_detail_list">Judul</string>
+    <string name="btTambah">+</string>
+    <string name="tanggal_project">Tanggal</string>
+    <string name="jam_project">Jam</string>
+    <string name="pemberitahuan_menu">Pemberitahuan</string>
+    <string name="urutkan_menu">Urutkan</string>
+    <string name="hapus_menu">Hapus</string>
+    <string name="riwayat_menu">Riwayat</string>
+</resources>
